@@ -46,8 +46,8 @@ npm start
 Open your browser at `http://localhost:3000` to view the app.
 
 ## 🧑‍💻 Developer Info
-Created by: [Palavai madhvi]  
-GitHub: [https://github.com/madhavi-developer]
+Created by: Palavai madhvi  
+GitHub: https://github.com/madhavi-developer
 
 ## 📄 License
 This project is open-source and free to use.
