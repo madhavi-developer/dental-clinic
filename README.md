@@ -46,7 +46,7 @@ npm start
 Open your browser at `http://localhost:3000` to view the app.
 
 ## 🧑‍💻 Developer Info
-Created by: [Your Name]  
+Created by: [Palavai madhvi]  
 GitHub: [Your GitHub Profile URL]
 
 ## 📄 License
