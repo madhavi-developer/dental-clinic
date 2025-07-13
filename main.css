@@ -1,0 +1,8 @@
+body { font-family: Arial; margin: 0; padding: 0; }
+.header, .footer { background: #004080; color: white; padding: 10px; text-align: center; }
+.header nav a { color: white; margin: 0 10px; text-decoration: none; }
+.hero { background: #cce6ff; padding: 50px; text-align: center; }
+.service-list { display: flex; flex-wrap: wrap; gap: 20px; padding: 20px; }
+.service { border: 1px solid #ccc; padding: 10px; flex: 1 0 30%; }
+form input, form textarea { display: block; width: 100%; margin-bottom: 10px; padding: 8px; }
+button { background: #004080; color: white; border: none; padding: 10px; cursor: pointer; }
